@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/30 11:37:10.227.pas,C:\Users\user\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\user\Documents\RAD Studio\Projects\DataModule.pas</Transaction>
+    <Transaction>2024/07/30 11:37:10.227.dfm,C:\Users\user\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\user\Documents\RAD Studio\Projects\DataModule.dfm</Transaction>
+    <Transaction>2024/07/30 11:37:26.084.pas,C:\Users\user\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\user\Documents\RAD Studio\Projects\UnitModule.pas</Transaction>
+    <Transaction>2024/07/30 11:37:26.084.dfm,C:\Users\user\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\user\Documents\RAD Studio\Projects\UnitModule.dfm</Transaction>
+    <Transaction>2024/07/30 11:37:37.447.dproj,C:\Users\user\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\user\Documents\RAD Studio\Projects\Project1_thoriq.dproj</Transaction>
+    <Transaction>2024/07/31 11:31:06.227.pas,C:\Users\user\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\user\Documents\RAD Studio\Projects\BussinesLogic.pas</Transaction>
+  </Transactions>
+</BorlandProject>
